@@ -1,5 +1,5 @@
 # Estate
 
-Frontend 
-stack : React Native
-backend : Django
+Frontend   
+stack : React Native     
+backend : Django   
